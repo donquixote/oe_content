@@ -165,14 +165,6 @@ content:
     region: content
     settings: {  }
     third_party_settings: {  }
-  field_oe_event_status_descriptio:
-    weight: 7
-    settings:
-      rows: 5
-      placeholder: ''
-    third_party_settings: {  }
-    type: text_textarea
-    region: content
   langcode:
     type: language_select
     weight: 20
